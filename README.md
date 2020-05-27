@@ -1,5 +1,4 @@
-本存储库的构建于论文《基于生成对抗网络的零样本图像分类》
-论文地址：https://bhxb.buaa.edu.cn/CN/abstract/abstract14960.shtml
+本存储库的构建于论文《Zero-shot Image Classification by Generative Adversarial Network with Soul Sample》
 
 相关说明如下：
 
